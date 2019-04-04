@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\bin\Debug\netstandard2.0\AppTutoriasV1.deps.json
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\bin\Debug\netstandard2.0\AppTutoriasV1.dll
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\bin\Debug\netstandard2.0\AppTutoriasV1.pdb
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.csprojAssemblyReference.cache
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.AssemblyInfo.cs
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.dll
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\AppTutoriasV1.pdb
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\PageAlumno.xaml.g.cs
+C:\Users\aless\source\repos\AppTutoriasV1\AppTutoriasV1\AppTutoriasV1\obj\Debug\netstandard2.0\PageReporte.xaml.g.cs

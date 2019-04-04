@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppTutoriasV1"
+             x:Class="AppTutoriasV1.MainPage"
+             Title="Inicio"
+             >
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Diseño de la app -->
+            <Label Text="" />
+            <Label Text="Universidad Autónoma de Nuevo Leon"
+                    TextColor="Black"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="Start" />
+
+            <Label Text="Esc. Ind. Y Prepa. Tec. Pablo Livas"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   FontSize="Medium"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="StartAndExpand" />
+
+            <Entry x:Name="txt_matricula"
+                   Placeholder="Mátricula"
+                   HorizontalTextAlignment="Center"
+                   PlaceholderColor="Gray"
+                   Keyboard="Numeric"
+                   VerticalOptions="CenterAndExpand" />
+
+            <Button x:Name="btn_buscar"
+                    BackgroundColor="Blue"
+                    Text="Buscar"
+                    TextColor="White"
+                    HorizontalOptions="Center"
+                    VerticalOptions="EndAndExpand"
+                    Clicked="Btn_buscar_Clicked" />
+            <Label Text="" />
+            <Label Text="" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
